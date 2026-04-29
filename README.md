@@ -65,23 +65,23 @@ https://Solfegesam.github.io/iyf-s10-week-07-Solfegesam/blob/main
 ```
 iyf-s10-week-07-Solfegesam/
 │
-├── index.html
-├── style.css
-├── README.md
+├── index.html              # Application entry point
+├── style.css               # Global styles
+├── README.md               # Project documentation
 │
 ├── js/
-│   ├── app.js        # Entry point (initialization)
-│   ├── state.js      # State management logic
-│   ├── storage.js    # localStorage & sessionStorage helpers
-│   ├── ui.js         # DOM rendering & updates
-│   └── utils.js      # Helper functions
+│   ├── app.js             # App initialization & orchestration
+│   ├── state.js           # Centralized state management
+│   ├── storage.js         # localStorage/sessionStorage utilities
+│   ├── ui.js              # DOM rendering & UI updates
+│   └── utils.js           # Reusable helper functions
 │
 ├── assets/
-│   ├── screenshots/  # UI images (for README)
-│   └── icons/        # Optional UI icons
+│   ├── screenshots/       # UI previews for README
+│   └── icons/             # Optional UI assets
 │
 └── docs/
-    └── notes.md      # Optional learning notes (not required)
+    └── notes.md          # Optional: learning notes & reflections
 ```
 
 ---
